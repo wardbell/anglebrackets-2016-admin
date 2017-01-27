@@ -1,0 +1,27 @@
+button {
+  font-size: 100%;
+}
+
+fieldset {
+  margin: 20px 0;
+}
+
+#admin-only {
+  background-color: red;
+  color: white;
+}
+
+legend {
+  background-color: white;
+  border: 1px solid black;
+  color: black;
+  font-weight:bold;
+}
+
+#auth-users {
+  background-color: palegoldenrod;
+}
+
+#everyone {
+  background-color: palegreen;
+}
